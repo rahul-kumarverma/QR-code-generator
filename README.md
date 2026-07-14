@@ -26,7 +26,13 @@ pip install -r requirements.txt
 ```bash
 python qr_generator.py
 ```
+## Technologies Used
 
+- Python
+- Tkinter
+- qrcode
+- Pillow
+  
 ## Screenshot
 
 <img width="600" height="678" alt="{7F4D9C65-4E15-43AB-A241-6B1B8586F833}" src="https://github.com/user-attachments/assets/d696c717-e104-4bf3-8f39-86fe73438794" />
